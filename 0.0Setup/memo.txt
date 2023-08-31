@@ -1,0 +1,12 @@
+ターミナルはcmdを使う
+
+0.データ元
+https://github.com/datacharmer/test_db
+
+1.コマンドの実行方法
+https://naotoogawa.hatenablog.jp/entry/2014/03/02/155718
+
+
+2.mysqlコマンドが実行できないので　環境変数を通す
+https://www.javadrive.jp/mysql/connect/index6.html#section1
+
